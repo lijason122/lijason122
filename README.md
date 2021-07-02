@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason Li!
 - 👀 I’m interested in computer programming such as Python, Java, React, C, HTML, JavaScript, SQL.
-- 🌱 I’m currently learning AWS development environment such as S3, Sagemaker, Lambda, CloudWatch.
-- 💞️ I’m Looking for Internship opportunity that can apply my Computer Systems Technology education, my design and programming experience as a Software/Web Developer.
+- 🌱 I’m currently learning .Net Technologies using C#.
+- 💞️ I’m Looking for Internship opportunity that can apply my Computer Systems Technology education, my design and programming experience as an aspiring Software/Web Developer.
 - 📫 My email: lijason@sheridancollege.ca
 
 LinkedIn: https://www.linkedin.com/in/lijason122/
