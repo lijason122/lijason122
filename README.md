@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason Li!
-- 👀 I’m interested in computer programming such as Python, Java, React, C, HTML, JavaScript, SQL.
+- 👀 I have experience in computer programming such as Python, Java, React, C, HTML, JavaScript, SQL.
 - 🌱 I’m currently learning .Net Technologies using C#.
 - 💞️ I’m Looking for opportunity that can apply my Computer Systems Technology education, my design and programming experience as an aspiring Software/Web Developer.
 - 📫 My email: lijason@sheridancollege.ca
