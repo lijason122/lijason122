@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason Li!
 - 👀 I have experience in computer programming such as Python, Java, React, C, C#, HTML, JavaScript, SQL.
-- 🌱 I’m currently seeking for Software Developer Internship.
-- 💞️ I’m Looking for opportunity that can apply my Computer Systems Technology education, my design and programming experience as an aspiring Software/Web Developer.
+- 🌱 I’m currently seeking for Entry level Software Developer jobs to expand my skills and grow my career.
+- 💞️ I’m Looking for opportunity that can apply my Computer Systems Technology education, my design and programming experience as an aspiring Software Developer.
 - 📫 My email: lijason@sheridancollege.ca
 
 LinkedIn: https://www.linkedin.com/in/lijason122/
