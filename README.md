@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason Li!
-- 👀 I have experience in computer programming such as Python, Java, C, C#, HTML, CSS, JavaScript, React, SQL.
-- 🌱 I’m currently seeking for Full Stack/Software Developer position to expand my skills and grow my career.
+- 👀 I have experience in computer programming such as HTML5, CSS3, JavaScript, React, Python, SQL, Java, C, C#.
+- 🌱 I’m currently seeking for Full Stack Developer position to expand my skills and grow my career.
 - 💞️ I’m Looking for opportunity that can apply my Computer Systems Technology education, my design and programming experience as an aspiring Full Stack Developer.
 - 📫 My email: lijason@sheridancollege.ca
 
