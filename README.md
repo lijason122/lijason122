@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason Li!
 - 👀 I'm really interested in computer programming such as HTML5, CSS3, JavaScript, React, Python, SQL, Java, C, and C#.
-- 🌱 I’m currently seeking for Full Stack Developer position mainly React to expand my skills and grow my career.
-- 💞️ I’m Looking for opportunity that can apply my Computer Systems Technology education, my design and programming experience as an aspiring Full Stack Developer.
+- 🌱 I’m currently seeking for Full Stack/Web Developer position (React) to expand my skills and grow my career.
+- 💞️ Check out my portfolio here: https://lijason.netlify.app
 - 📫 My email: lijason@sheridancollege.ca
 
 LinkedIn: https://www.linkedin.com/in/lijason122/
