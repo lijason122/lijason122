@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason Li!
 - 👀 I'm really interested in computer programming such as HTML5, CSS3, JavaScript, React, Python, SQL, Java, C, and C#.
-- 🌱 I’m currently seeking for Full Stack/Software/Web Developer position (React).
+- 🌱 I’m currently working as a Software Engineer Intern at at TKLABS.
 - 💞️ Check out my portfolio here: https://lijason.netlify.app
 - 📫 My email: lijason@sheridancollege.ca
 
