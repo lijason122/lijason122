@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason Li!
 - 👀 I'm really interested in computer programming such as HTML5, CSS3, JavaScript, React.js, TypeScript, Python, SQL.
-- 🌱 I worked as a Software Engineer at TKLABS.
+- 🌱 I worked as a Front-End Software Engineer at TKLABS.
 - 💞️ Check out my portfolio here: https://lijason.netlify.app
 - 📫 My email: lijason@sheridancollege.ca
 
