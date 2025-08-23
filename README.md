@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jason Li!
-- 👀 I'm interested in React Web Developer position.
-- 🌱 I worked at TKLABS as a Front-End Software Engineer.
+- 💼 I’m looking for React Web Developer position.
+- ⭐ I’ve previously worked at TKLABS as a Front-End Software Engineer.
 - 💞️ Check out my portfolio here: https://lijason.netlify.app
-- 📫 My email: lijason@sheridancollege.ca
 
 LinkedIn: https://www.linkedin.com/in/lijason122/
 
