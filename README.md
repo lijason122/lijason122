@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason Li!
-- 💼 I’m looking for React Web Developer position.
+- 💼 I’m looking for React Web Developer roles.
 - ⭐ I’ve previously worked at TKLABS as a Front-End Software Engineer.
 - 💞️ Check out my portfolio here: https://lijason.netlify.app
 
